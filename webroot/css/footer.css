@@ -1,0 +1,14 @@
+.bg-4 { 
+      background-color: #2f2f2f; /* Black Gray */
+      color: #fff;
+  }
+.container-fluid {
+      padding-top: 05%;
+      padding-bottom: 05%;
+  }
+  footer{
+  	/*position: absolute;
+  	bottom: 0;
+  	width: 100%;*/
+  }
+
